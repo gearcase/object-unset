@@ -53,9 +53,9 @@ unset({ a: 1 }, 'a.b.c.d');
 ## Related
 
 - [object-set](https://github.com/bubkoo/object-set) - Sets the value at path of object.
-- [to-path](https://github.com/bubkoo/to-path) - Converts string to a property path array. 
 - [object-at](https://github.com/bubkoo/object-at) - Get object's property according to the path.
 - [object-has](https://github.com/bubkoo/object-has) - Checks if path is a direct property of object.
+- [to-path](https://github.com/bubkoo/to-path) - Converts string to a property path array. 
 
 
 ## Contributing
