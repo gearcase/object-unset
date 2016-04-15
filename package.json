@@ -1,6 +1,6 @@
 {
   "name": "object-unset",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Removes the property at path of object.",
   "main": "index.js",
   "scripts": {
@@ -29,12 +29,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bubkoo/object-unset.git"
+    "url": "git+https://github.com/gearcase/object-unset.git"
   },
   "bugs": {
-    "url": "https://github.com/bubkoo/object-unset/issues"
+    "url": "https://github.com/gearcase/object-unset/issues"
   },
-  "homepage": "https://github.com/bubkoo/object-unset#readme",
+  "homepage": "https://github.com/gearcase/object-unset#readme",
   "devDependencies": {
     "jshint": "^2.9.1",
     "chai": "^3.5.0",
